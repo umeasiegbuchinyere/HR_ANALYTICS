@@ -1,5 +1,8 @@
 # HR_ANALYTICS
 
+<img width="1536" height="1024" alt="ChatGPT Image HR" src="https://github.com/user-attachments/assets/1dc8f733-edb7-4755-be99-489c98efd40c" />
+
+
 
 # Table of Content
 
